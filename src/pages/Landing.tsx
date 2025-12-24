@@ -100,7 +100,7 @@ export default function Landing() {
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mb-10"
           >
             Command your restaurant with AI-powered voice orders, real-time analytics,
-            and a cyberpunk interface that puts you in control.
+            and a simplistic interface that puts you in control.
           </motion.p>
 
           <motion.div
@@ -155,7 +155,7 @@ export default function Landing() {
         <footer className="px-8 py-8 border-t border-primary/10">
           <div className="max-w-6xl mx-auto flex items-center justify-between">
             <span className="text-sm text-muted-foreground">
-              © 2024 NEXUS RMS. Powered by AI.
+              © 2025 NEXUS RMS. Powered by Team 5.
             </span>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 rounded-full bg-neon-green animate-pulse" />
